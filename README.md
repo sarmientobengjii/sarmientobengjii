@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarmientobengjii
+- 👋 Hi, I’m @sarmientobengjii or Harvy Sarmiento
 - 👀 I’m interested in learning more about Tech specifically frontend
 - 🌱 I’m currently learning ReactJS, Django, and Typescript
 - 💞️ I’m looking to collaborate on building UIs
