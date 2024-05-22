@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a graduate of Business Administration, attended Medical School for a year then worked as a IT/Engineer recruiter for 3 years.
 
-I've been studying Python for a month now and I was able to build my first ever Automated Fingerprint Timelog as my first project. Right now, I'm studying ReactJS, Typescript, and Django to further enhance my skills and knowledge in the industry with intent of building my own websites and starting my own projects. 
+I've been studying Python for a month now and I was able to build my first ever Automated Fingerprint Timelog as my first project. Right now, I'm studying ReactJS, SQL, and Django to further enhance my skills and knowledge in the industry with intent of building my own websites and starting my own projects. 
 
 Looking forward to learn from the experts in the industry. 
 
